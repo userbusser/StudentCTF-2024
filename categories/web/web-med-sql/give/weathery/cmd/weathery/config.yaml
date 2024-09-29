@@ -1,0 +1,10 @@
+database:
+    host: 127.0.0.1
+    logmode: false
+    name: weathery
+    password: weathery
+    port: 5432
+    sslmode: disable
+    username: weathery
+app:
+    secretkey: changeme
